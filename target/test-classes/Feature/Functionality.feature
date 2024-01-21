@@ -20,13 +20,13 @@ Scenario: Visit us Page
 When click on the visit us page
 Then Get the title of Visit us Page
 
-@Smoke
+
 Scenario: For Single Tag Testing
 Given
 When
 Then
 
-@Smoke @Important
+@Smoke
 Scenario: For Multiple.Combination of Tag Testing
 Given
 When
